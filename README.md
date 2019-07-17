@@ -4,6 +4,8 @@ Notice
 
 - If you have a bot from the previous version it will not work if you use stuff from this repository, This is on the master branch of discord.js and PublicBot branch of elaracmdo
 
+- If you have any issues please open a Issue on this repository [New Issue](https://github.com/Elara-Discord-Bots/PublicBot-Cmdo/issues/new)
+
 Getting Started
 ===================
 
