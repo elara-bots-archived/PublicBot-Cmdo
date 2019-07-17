@@ -176,7 +176,7 @@ class Functions{
             .setAuthor(msg.author.tag, msg.author.displayAvatarURL())
             .setColor(`#FF0000`)
             .setTitle(`The bot is currently in maintenance. Please wait.`)
-            .setDescription(`Join the support server to keep up with the maintenance.\nhttps://discord.gg/qafHJ63`)
+            .setDescription(`Join the support server to keep up with the maintenance.\n${msg.client.options.invite}`)
             .setTimestamp()
             return msg.channel.send(e)
         };
