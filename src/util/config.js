@@ -44,7 +44,7 @@ this.presence = {
       }
 }}
   this.totaldisable = false;
-  this.prefix = "";
+  this.prefix = "!!";
   this.rexexp = err => err
   this.commandfolders = ["Developer", 'Fun', 'Info', 'Moderation', "User"];
   this.eventfolders = ['Server', 'Joins', "Mod", "User", "Messages"];
