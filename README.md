@@ -4,17 +4,17 @@ Notice
 
 - If you have a bot from the previous version it will not work if you use stuff from this repository, This is on the master branch of discord.js and PublicBot branch of elaracmdo
 
-- If you have any issues please open a issue in this repository [New Issue](https://github.com/Elara-Discord-Bots/PublicBot-Cmdo/issues/new) or join the support server: [Link](https://discord.gg/qafHJ63)
+- If you have any issues please open a issue in this repository [New Issue](https://github.com/elara-bots/PublicBot-Cmdo/issues/new) or join the support server: [Link](https://discord.gg/qafHJ63)
 
 Getting Started
 ===================
 
 **1.** Download the files or use `git clone` 
-Ex: `git clone https://github.com/Elara-Discord-Bots/PublicBot-Cmdo.git`
+Ex: `git clone https://github.com/elara-bots/PublicBot-Cmdo.git`
 
 **2.** Once you have the files downloaded open up a console in the bot folder and do `npm install` and let it run fully.
 
-**3.** Fill out the options in the [`config.js`](https://github.com/Elara-Discord-Bots/PublicBot-Cmdo/blob/master/src/util/config.js) file.
+**3.** Fill out the options in the [`config.js`](https://github.com/elara-bots/PublicBot-Cmdo/blob/master/src/util/config.js) file.
 
 Config Requirements!
 ============
