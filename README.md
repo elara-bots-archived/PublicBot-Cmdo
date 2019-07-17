@@ -14,6 +14,14 @@ Ex: `git clone https://github.com/Elara-Discord-Bots/PublicBot-Cmdo.git`
 
 **3.** Fill out the options in the [`config.js`](https://github.com/Elara-Discord-Bots/PublicBot-Cmdo/blob/master/src/util/config.js) file.
 
+Config Requirements!
+============
+- [`log`, `error`, `servers`, `action`, `shard`]: Webhooks are required, It requires webhook links/urls.. 
+- token: The bot token.. Get your bot token from. [Discord Developers Page](https://discordapp.com/developers/applications)
+- owners: The array of bot developers. Ex: [`id`, `id2`]
+- mongo: The connect URL from Mongodb Atlas, Instructions below...
+- prefix: THe prefix for the bot. - Default is: `!!`
+
 
 Mongodb Instructions
 =====================
@@ -29,5 +37,3 @@ Mongodb Instructions
 - Click **Choose a connection method**.
 - Click **Connect your Application**
 - Your connection string is here! Keep the page open to copy it later in the setup stage.
-  
-  
