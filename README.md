@@ -2,7 +2,7 @@ Notice
 =====================
 - This is **NOT** for people who are just starting. I suggest you go watch a few tutorials to get the general idea of how to create a bot before even attempting to run this code etc..
 
-- If you have a bot from the previous version it will not work if you use stuff from this repository, This is on the master branch of Discord.js and Elaracmdo/discord.js-commando
+- If you have a bot from the previous version it will not work if you use stuff from this repository, This is on the master branch of discord.js and PublicBot branch of elaracmdo
 
 
 Getting Started
