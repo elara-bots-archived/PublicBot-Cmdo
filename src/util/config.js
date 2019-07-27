@@ -4,7 +4,7 @@ class Config{
     this.invite = "";
     this.apis = {
       IMDB: "",
-      api: "",
+      api: "http://elara-api.glitch.me/",
       fortnite: "",
       giphy: "",
       twitch: "",
@@ -37,7 +37,7 @@ this.presence = {
         }})
         setTimeout(async () => {
           client.user.setPresence({status: "online", activity: {
-            name: `${prefix}help`,
+            name: `${client.commandPrefix}help`,
             type: "LISTENING"
           }})
         }, 35000)
