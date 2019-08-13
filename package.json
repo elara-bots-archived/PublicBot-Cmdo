@@ -11,7 +11,7 @@
   "dependencies": {
     "canvas": "github:Automattic/node-canvas#92b192447e9b9ae98da0f801e4e34afdd1dc1ef8",
     "canvas-constructor": "^1.1.2",
-    "discord.js": "github:discordjs/discord.js",
+    "discord.js": "github:discordjs/discord.js#master",
     "elaracmdo": "github:elara-bots/Elara-Cmdo#PublicBot",
     "figlet": "^1.2.3",
     "fortnite": "^4.3.2",
