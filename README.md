@@ -1,5 +1,8 @@
-Notice
+IMPORTANT NOTICE
 =====================
+- **This repository is outdated and will not be updated anymore.. with this warning I should put.. Discord.js version 12 has come up and this will break anything in the repository.. read [this](https://discordjs.guide/additional-info/changes-in-v12.html) for more information and how to update this code to work properly.**
+
+
 - This is **NOT** for people who are just starting. I suggest you go watch a few tutorials to get the general idea of how to create a bot before even attempting to run this code etc..
 
 - If you have a bot from the previous version it will not work if you use stuff from this repository, This is on the master branch of discord.js and PublicBot branch of elaracmdo
