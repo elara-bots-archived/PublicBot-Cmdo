@@ -11,7 +11,7 @@
   "dependencies": {
     "canvas": "github:Automattic/node-canvas#92b192447e9b9ae98da0f801e4e34afdd1dc1ef8",
     "canvas-constructor": "^1.1.2",
-    "discord.js": "https://github.com/discordjs/discord.js#fe7df708e44e0280dfaf0f8e457b154781bb5140"",
+    "discord.js": "https://github.com/discordjs/discord.js#fe7df708e44e0280dfaf0f8e457b154781bb5140",
     "elaracmdo": "github:elara-bots/Elara-Cmdo#PublicBot",
     "figlet": "^1.2.3",
     "fortnite": "^4.3.2",
@@ -22,7 +22,6 @@
     "mongoose": "^5.6.4",
     "ms": "^2.1.2",
     "node-fetch": "^2.6.0",
-    "path": "^0.12.7",
     "spacetime": "^4.5.1",
     "superagent": "^3.8.3",
     "weather-js": "^2.0.0"
