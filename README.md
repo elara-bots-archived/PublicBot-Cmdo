@@ -1,3 +1,9 @@
+<h1><center>WARNING<br>This repository will NOT work after October, due to Discord requiring the use of Intents, and I don't plan on working on another open sourced bot like this one.</center></h1>
+
+
+
+<br>
+
 IMPORTANT NOTICE
 =====================
 - **This repository is outdated and will not be updated anymore.. with this warning I should put.. Discord.js version 12 is out right now and is `NOT` supported.. this is locked to right before the Managers was added, read [this](https://discordjs.guide/additional-info/changes-in-v12.html) if you wish to update this code, but the elaracmdo package will not support it.**
